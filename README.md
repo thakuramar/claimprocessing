@@ -1,4 +1,4 @@
-# BusinessProcessAnalysisProject
+# Claim Processing Project
 Medical Insurance Claim System
 
 Aim/Inspiration
